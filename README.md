@@ -10,6 +10,7 @@ All you have to do is change the ticker in the code to the ticker found on Yahoo
 In this case, the name of the ticker is AI.PA, which corresponds to the French company Air liquide.
 
 Then all you have to do is run the code and you get this:
-![image](https://github.com/ClementRouillard/Stock-regression-line/assets/95076597/272bc640-a985-40d0-b0c3-3c60f6ddd59d)
+![image](https://github.com/ClementRouillard/Stock-regression-line/assets/95076597/e43f08cc-2a49-47b0-8b73-2c25ae7068e2)
+
 This graph shows at a glance whether a share is over- or undervalued. The solid straight line represents the 'best average approximation' of the share price position over the period in question.
 And the dotted lines are the standard deviations. I have limited myself to having a maximum of 2 standard deviations on my chart.
