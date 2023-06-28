@@ -4,8 +4,9 @@ This code can be used to obtain a graph of a share's price, its regression line 
 
 # How to use it ?
 
-All you have to do is change the ticker in the code to the ticker found on Yahoo Finance. 
+All you have to do is change the ticker in the code to the ticker found on Yahoo Finance.
 ![image](https://github.com/ClementRouillard/Stock-regression-line/assets/95076597/32db7ce2-ce54-4b1b-b4ac-a4f15e994b7e)
+
 In this case, the name of the ticker is AI.PA, which corresponds to the French company Air liquide.
 
 Then all you have to do is run the code and you get this:
